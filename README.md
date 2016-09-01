@@ -9,3 +9,5 @@
 5. Ingresar segundo número
 4. Mostrar respuesta
 5. Fin.
+
+[![Calculadora.png](https://s17.postimg.org/54fshh1hb/Calculadora.png)](https://postimg.org/image/eozf4cqt7/)
